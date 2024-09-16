@@ -1,4 +1,4 @@
-FROM python:3.9.17-slim-bullseye
+FROM python:3.13.0a2-slim-bullseye
 
 #Special gifts for mainland China users :) 
 #Change to your own preferenced mirrors if you wish, just uncomment them is fine too.
